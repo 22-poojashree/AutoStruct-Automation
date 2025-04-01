@@ -2,7 +2,7 @@
 
 ## Overview
 
-Businesses handle vast amounts of documents, including invoices, employee records, and HR policies, which require manual data extraction and storage, leading to inefficiencies, errors, and time consumption. Our project, **AutoStruct-Automation**, aims to automate this process using AI-powered document extraction, structured storage, and chatbot integration. This solution is designed for organizations that need efficient, accurate, and scalable document management, reducing human effort and improving workflow automation.
+Businesses handle vast amounts of documents, including invoices, employee records, and HR policies, which require manual data extraction and storage, leading to inefficiencies, errors, and time consumption. My project, **AutoStruct-Automation**, aims to automate this process using AI-powered document extraction, structured storage, and chatbot integration. This solution is designed for organizations that need efficient, accurate, and scalable document management, reducing human effort and improving workflow automation.
 
 ## Features
 
